@@ -1,1 +1,2 @@
-# 1503-firmansyah-indra.github.io
+# Works
+- Firmansyah, Indra et al. "Learning Set Embeddings for Fashion Compatibility Recommendation" (2024) [view paper](https://1503-firmansyah-indra.github.io/works/camera_ready-firmansyah_learning-set-embeddings.pdf)
